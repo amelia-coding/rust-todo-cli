@@ -10,7 +10,7 @@ use task::TodoList;
 use clap::{App, Arg};
 
 fn main() {
-    let help_instru = r#"命令名:
+    let help_instru: &str = r#"命令名:
     add(a)          -p [Content]                  : 添加当天的todo
     list_all(la)                                  : 打印全部todo
     list_daily(ld)  -p [Date: YYYY-MM-DD]         : 打印某一天的todo, 不带参数默认打印当天
