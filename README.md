@@ -41,6 +41,7 @@ rust语言的特点
 学习
 
 - [rust语言圣经] https://course.rs/
+- [rust部署项目] https://space.bilibili.com/498917515
 
 
 问题
