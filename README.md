@@ -32,6 +32,10 @@ rust语言的特点
 
 3. -- 告诉 cargo 后面的参数是给我们的程序使用的，而不是给 cargo 自己使用，例如 -- 前的 run 就是给它用的。
 
+## 使用rust读取文件
+
+0. cargo run -- They sample.txt
+
 
 学习
 
