@@ -36,11 +36,11 @@ rust语言的特点
 
 0. cargo run -- They sample.txt
 
+1. 思想：关注点分离
 
 学习
 
-- https://course.rs/first-try/intro.html
-- https://rusty.course.rs/
+- [rust语言圣经] https://course.rs/
 
 
 问题
